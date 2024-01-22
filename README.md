@@ -1,7 +1,7 @@
 # DeepRL-study
 study projects in RL, DeepRL, OpenAI Gymnasium, stable baseline3
 
-**Project-1: **
+**Project-1:**
 
 PPO for CartPole. Based on stable baseline3(for the algorithm) and Gymnasium(for the environment).
 
