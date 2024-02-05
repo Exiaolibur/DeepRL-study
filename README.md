@@ -15,4 +15,7 @@ This is for learning Deep Q-learning
 
 referring to the project guide : https://towardsdatascience.com/develop-your-first-ai-agent-deep-q-learning-375876ee2472#c87e
 
-I'm still working on it. but you can see the files of the projects I have done in the Project-2 folder.
+**Peoject-3:**
+
+A mini project of DQN for LunarLander. with Gymnasium and Stablebaseline3.
+
